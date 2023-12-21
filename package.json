@@ -2,6 +2,7 @@
 	"name": "slideshow-sorting",
 	"author": "k8.tty",
 	"version": "0.0.0",
+	"license": "gpl-3.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite",
